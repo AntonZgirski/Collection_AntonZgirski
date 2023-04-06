@@ -1,0 +1,15 @@
+D:\C#\TMS\Collection_Lab\Collection_Lab\bin\Debug\net7.0\Collection_Lab.exe
+D:\C#\TMS\Collection_Lab\Collection_Lab\bin\Debug\net7.0\Collection_Lab.deps.json
+D:\C#\TMS\Collection_Lab\Collection_Lab\bin\Debug\net7.0\Collection_Lab.runtimeconfig.json
+D:\C#\TMS\Collection_Lab\Collection_Lab\bin\Debug\net7.0\Collection_Lab.dll
+D:\C#\TMS\Collection_Lab\Collection_Lab\bin\Debug\net7.0\Collection_Lab.pdb
+D:\C#\TMS\Collection_Lab\Collection_Lab\obj\Debug\net7.0\Collection_Lab.csproj.AssemblyReference.cache
+D:\C#\TMS\Collection_Lab\Collection_Lab\obj\Debug\net7.0\Collection_Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TMS\Collection_Lab\Collection_Lab\obj\Debug\net7.0\Collection_Lab.AssemblyInfoInputs.cache
+D:\C#\TMS\Collection_Lab\Collection_Lab\obj\Debug\net7.0\Collection_Lab.AssemblyInfo.cs
+D:\C#\TMS\Collection_Lab\Collection_Lab\obj\Debug\net7.0\Collection_Lab.csproj.CoreCompileInputs.cache
+D:\C#\TMS\Collection_Lab\Collection_Lab\obj\Debug\net7.0\Collection_Lab.dll
+D:\C#\TMS\Collection_Lab\Collection_Lab\obj\Debug\net7.0\refint\Collection_Lab.dll
+D:\C#\TMS\Collection_Lab\Collection_Lab\obj\Debug\net7.0\Collection_Lab.pdb
+D:\C#\TMS\Collection_Lab\Collection_Lab\obj\Debug\net7.0\Collection_Lab.genruntimeconfig.cache
+D:\C#\TMS\Collection_Lab\Collection_Lab\obj\Debug\net7.0\ref\Collection_Lab.dll
